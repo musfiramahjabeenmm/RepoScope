@@ -1,0 +1,16 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+
+# Spring Boot
+backend/target/
+
+# Mac
+.DS_Store
